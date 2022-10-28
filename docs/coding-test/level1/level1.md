@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Level1
-parent: Algorithm
+parent: 코딩테스트
 has_children: true
-permalink: /docs/algorithm/level1
+permalink: /docs/coding-test/level1
 nav_order: 1
 ---
 

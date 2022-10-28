@@ -1,2 +1,1 @@
-## GoryBlog
-
+# BLOG

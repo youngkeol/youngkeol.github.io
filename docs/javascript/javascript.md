@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 알고리즘
+title: 자바스크립트
 has_children: true
-permalink: /docs/algorithm
-nav_order: 60
+permalink: /docs/javascript
+nav_order: 40
 ---
 
 # 알고리즘

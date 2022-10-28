@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 알고리즘
+title: 리액트
 has_children: true
-permalink: /docs/algorithm
-nav_order: 60
+permalink: /docs/react
+nav_order: 42
 ---
 
 # 알고리즘

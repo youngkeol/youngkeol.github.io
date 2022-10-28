@@ -1,6 +1,7 @@
+
 ---
-title: CHANGELOG
-layout: default
+<!-- title: CHANGELOG
+layout: default -->
 ---
 
 # CHANGELOG
