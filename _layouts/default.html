@@ -99,6 +99,10 @@ layout: table_wrappers
       </footer>
     {% endif %}
   </div>
+
+
+
+
   <div class="main" id="top">
     <div id="main-header" class="main-header">
       {% if site.search_enabled != false %}
@@ -173,7 +177,23 @@ layout: table_wrappers
           {%- include footer_custom.html -%}
         {% endcapture %}
         {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}
-          <hr>
+          
+        
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <hr />
+          <script src="https://utteranc.es/client.js"
+            repo="dev-yakuza/dev-yakuza.github.io"
+            issue-term="url"
+            label="comment"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
+          </script>
+          
+        </div>
+        
+        
+        <hr>
           <footer>
             {% if site.back_to_top %}
               <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
@@ -225,5 +245,9 @@ layout: table_wrappers
     window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
   </script>
   {% endif %}
+
+
+  
+
 </body>
 </html>

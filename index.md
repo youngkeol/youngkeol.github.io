@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
@@ -8,7 +8,7 @@ permalink: /
 
 
 
-HELLO
+HELLOㄴ
 
 
 [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -19,3 +19,6 @@ HELLO
   # .. or if you're using a Gemfile (bundler)
   $ bundle exec jekyll serve
   ```
+
+
+
