@@ -155,6 +155,8 @@ plugins:
   - jekyll-seo-tag
 
 kramdown:
+  # input: GFM
+  # highlighter: rouge
   syntax_highlighter_opts:
     block:
       line_numbers: false
@@ -166,5 +168,5 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-  # ignore:
-  #   envs: all
+  ignore:
+    envs: all
