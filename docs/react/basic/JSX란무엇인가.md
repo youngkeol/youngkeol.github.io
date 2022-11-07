@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JSX란 무엇인가
+title: JSX란?
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
@@ -8,7 +8,7 @@ permalink: /docs/react/basic/jsx
 nav_order: 2
 ---
 
-### **JSX란 무엇인가**   
+### **JSX란?**   
 
 1. Javascript의 확장 문법.
 2. JSX를 사용하면, React에서 HTML을 쉽게 작성 가능.
