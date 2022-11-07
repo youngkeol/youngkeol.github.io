@@ -64,10 +64,11 @@ txt2 {
 
 ### **참고 이미지**
 
-![alt 뒤에 날짜가 있는 말줄임표](./ellipsis_img_01.png/200)
+![alt 뒤에 날짜가 있는 말줄임표](./ellipsis_img_01.png)
 
 
 ### **예제 파일 다운로드**
 
-[말줄임표](ellipsis_ex_01.html)
+[말줄임표](ellipsis_ex_01.html)  
 [뒤에 날짜가 있는 말줄임표](ellipsis_ex_02.html)
+<a href="ellipsis_ex_02.html" download>
