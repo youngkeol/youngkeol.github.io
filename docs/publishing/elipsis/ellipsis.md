@@ -65,5 +65,5 @@ txt2 {
 
 ### **예제 파일 다운로드**
 
-><a href="https://github.com/youngkeol/youngkeol.github.io/tree/main/docs/publishing/20221103.html" download>말줄임표</a>  
-><a href="https://github.com/youngkeol/youngkeol.github.io/blob/main/docs/publishing/20221103.html" download>뒤에 날짜가 있는 말줄임표</a>
+><a href="https://github.com/youngkeol/youngkeol.github.io/tree/main/docs/ellipsis_ex_01.html" download>말줄임표</a>  
+><a href="https://github.com/youngkeol/youngkeol.github.io/blob/main/docs/publishing/ellipsis_ex_02.html" download>뒤에 날짜가 있는 말줄임표</a>
