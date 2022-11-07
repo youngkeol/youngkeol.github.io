@@ -6,6 +6,6 @@ permalink: /docs/react
 nav_order: 42
 ---
 
-# 알고리즘
+# 리액트
 {: .no_toc }
 
