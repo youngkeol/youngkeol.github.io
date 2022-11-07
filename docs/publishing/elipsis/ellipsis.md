@@ -71,4 +71,4 @@ txt2 {
 
 [말줄임표](ellipsis_ex_01.html)  
 [뒤에 날짜가 있는 말줄임표](ellipsis_ex_02.html)
-<a href="ellipsis_ex_02.html" download>aaa</>
+<a href="/docs/publishing/elipsis/ellipsis_ex_02.html" download>aaa</>
