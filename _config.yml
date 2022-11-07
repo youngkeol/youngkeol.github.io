@@ -153,6 +153,7 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 plugins:
   - jekyll-seo-tag
+  #- jekyll-polyglot
 
 kramdown:
   # input: GFM
@@ -170,3 +171,10 @@ compress_html:
   profile: false
   ignore:
     envs: all
+
+
+# 다국어
+# languages: ["en", "ko"]
+# default_lang: "en"
+# exclude_from_localization: ["javascript", "images", "css", "public"]
+# parallel_localization: false
