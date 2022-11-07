@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<title>뒤에 날짜가 있는 말줄임표</title>
+	<style>
+		* {margin:0; padding:0;}
+		body {padding:100px;}
+		a {text-decoration:none; color:#000;}
+		.list-box {list-style:none; width:100%;}
+		.list {display:inline-block; overflow: hidden; max-width: 100%; white-space: nowrap;}
+		.list .title {display:block; float:left; overflow: hidden; width:calc(100% - 100px); text-overflow: ellipsis; white-space: nowrap;}
+		.list .date {display:block; float:left; width:100px; text-align:center; }
+
+	</style>
+</head>
+<body>	
+	<h2>뒤에 날짜가 있는 말줄임표 만들기(···)</h2>
+	<br/>
+	<ul class="list-box">
+		<li>
+			<div class="list">
+				<span class="title"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></span>
+				<sapn class="date">2022-11-07</sapn>
+			</div>
+		</li>
+		<li>
+			<div class="list">
+				<span class="title"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elitLorem ipsum dolor sit amet</a></span>		
+				<sapn class="date">2022-11-08</sapn>
+			</div>
+		</li>
+	</ul>
+</body>
+</html>

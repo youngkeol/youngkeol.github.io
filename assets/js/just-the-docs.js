@@ -78,6 +78,8 @@ function initSearch() {
       lunr.tokenizer.separator = {{ site.search.tokenizer_separator | default: site.search_tokenizer_separator | default: "/[\s\-/]+/" }}
 
       var index = lunr(function(){
+       // this.use(lunr.multiLanguage('en', 'ko'));
+        this.use(lunr.ko);
         this.ref('id');
         this.field('title', { boost: 200 });
         this.field('content', { boost: 2 });
@@ -151,9 +153,13 @@ function searchLoaded(index, docs) {
 
     var results = index.query(function (query) {
       var tokens = lunr.tokenizer(input)
+    
       query.term(tokens, {
         boost: 10
       });
+
+
+      
       query.term(tokens, {
         wildcard: lunr.Query.wildcard.TRAILING
       });

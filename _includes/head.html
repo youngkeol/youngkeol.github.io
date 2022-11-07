@@ -28,6 +28,8 @@
 
   {% if site.search_enabled != false %}
     <script src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/vendor/lunr.stemmer.support.js'}}"></script>
+    <script src="{{ '/assets/js/vendor/lunr.ko.js'}}"></script>
   {% endif %}
 
   {% if site.mermaid %}
