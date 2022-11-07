@@ -62,12 +62,12 @@ txt2 {
 </ul>
 ```
 
-![alt 뒤에 날짜가 있는 말줄임표](./ellipsis_img_01.png)
+### **참고 이미지**
+
+![alt 뒤에 날짜가 있는 말줄임표](./ellipsis_img_01.png/200)
 
 
 ### **예제 파일 다운로드**
 
-><a href="https://github.com/youngkeol/youngkeol.github.io/blob/main/docs/publishing/elipsis/ellipsis_ex_01.html" download>말줄임표</a>  
-><a href="./ellipsis_ex_02.html" download>뒤에 날짜가 있는 말줄임표</a>
-
-[예제 다운로드](ellipsis_ex_02.html)
+[말줄임표](ellipsis_ex_01.html)
+[뒤에 날짜가 있는 말줄임표](ellipsis_ex_02.html)
