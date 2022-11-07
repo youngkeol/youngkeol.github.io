@@ -69,6 +69,8 @@ txt2 {
 
 ### **예제 파일 다운로드**
 
-[말줄임표](ellipsis_ex_01.html)  
-[뒤에 날짜가 있는 말줄임표](ellipsis_ex_02.html)  
-<a href="/docs/publishing/elipsis/ellipsis_ex_02.html" download>다운로드 테스트</a>
+<a href="/docs/publishing/elipsis/ellipsis_ex_01.html" download>말줄임표</a>  
+<a href="/docs/publishing/elipsis/ellipsis_ex_02.html" download>뒤에 날짜가 있는 말줄임표</a>
+<!-- [말줄임표](ellipsis_ex_01.html)  
+[뒤에 날짜가 있는 말줄임표](ellipsis_ex_02.html)
+-->
