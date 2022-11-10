@@ -64,13 +64,14 @@ txt2 {
 
 ### **참고 이미지**
 
-![alt 뒤에 날짜가 있는 말줄임표](./ellipsis_img_01.png, "뒤에 날짜가 있는 말줄임표 구연 화면")  
+![alt 뒤에 날짜가 있는 말줄임표](/docs/publishing/elipsis/ellipsis_img_01.png, "뒤에 날짜가 있는 말줄임표 구연 화면")  
 
 
 ### **예제 파일 다운로드**
 
 <a href="/docs/publishing/elipsis/ellipsis_ex_01.html" download>말줄임표</a>  
 <a href="/docs/publishing/elipsis/ellipsis_ex_02.html" download>뒤에 날짜가 있는 말줄임표</a>
+
 <!-- [말줄임표](ellipsis_ex_01.html)  
 [뒤에 날짜가 있는 말줄임표](ellipsis_ex_02.html)
 -->
