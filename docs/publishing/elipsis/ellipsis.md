@@ -64,7 +64,7 @@ txt2 {
 
 ### **참고 이미지**
 
-![alt 뒤에 날짜가 있는 말줄임표](/docs/publishing/elipsis/ellipsis_img_01.png, "뒤에 날짜가 있는 말줄임표 구연 화면")  
+![alt 뒤에 날짜가 있는 말줄임표](/docs/publishing/elipsis/ellipsis_img_01.png)  
 
 
 ### **예제 파일 다운로드**
