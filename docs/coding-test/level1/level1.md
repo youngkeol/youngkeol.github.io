@@ -8,6 +8,5 @@ nav_order: 1
 lang: ko
 ---
 
-# Utilities
-{: .no_toc }
+# 프로그래머스 LEVEL1 코딩테스트 연습 
 
