@@ -6,6 +6,6 @@ permalink: /docs/javascript
 nav_order: 40
 ---
 
-# 알고리즘
-{: .no_toc }
+# 자바스크립트
+
 
