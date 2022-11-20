@@ -10,13 +10,12 @@ nav_order: 2
 
 ### **JSX란?**   
 
-1. Javascript의 확장 문법.
-2. JSX를 사용하면, React에서 HTML을 쉽게 작성 가능.
+Javascript의 확장 문법으로 JSX를 사용하면, React에서 HTML을 쉽게 작성 가능.
 
 
 ### **JSX 표현식**  
 
-1. JSX를 사용하면 ```{}``` 안에 표현식 사용 가능
+JSX를 사용하면 ```{}``` 안에 표현식 사용 가능
     표현식은 React변수, 속성, JavaScript 표현식  
 ```react
 const myElement = <h1>React is {5 + 5} times better with JSX</h1>;

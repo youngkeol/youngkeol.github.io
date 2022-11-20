@@ -1,7 +1,9 @@
 ---
 layout: default
 title: 프로미스
-parent: 자바스크립트
+grand_parent: 자바스크립트
+parent: 자바스크립트 기초
+has_children: false
 permalink: /docs/javascript/promise
 nav_order: 10
 ---
