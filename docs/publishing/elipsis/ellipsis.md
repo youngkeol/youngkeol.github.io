@@ -3,7 +3,7 @@ layout: default
 title: 말줄임표 만들기
 parent: 웹퍼블리싱
 permalink: /docs/web-publishing/ellipsis
-nav_order: 1
+nav_order: 100
 ---
 
 ## **말줄임표 만들기**
