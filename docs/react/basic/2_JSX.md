@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.JSX란
+title: 2_JSX란
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
