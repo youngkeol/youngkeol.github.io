@@ -1,23 +1,28 @@
 ---
 layout: default
-title: 3.Components&Props
+title: 5_Event
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
 permalink: /docs/react/basic/components-props
-nav_order: 3
+nav_order: 5
 ---
 
 
 
-### **Components**  
-컴포넌트는 독립적이고 재사용 가능한 코드 조각으로 HTML을 반환함
+### **Event**  
 
 ```js
-//함수형 컴포넌트
-function Car () {
+const Test = (props) => {
+    const clickhandler = () => {
+        console.log('Clicked1');
+    }
+
     return (
-        <h2>Car<h2>
+        <div>
+            <button onClick={clickhandler}>이벤트 방법1</button>
+            <button onClick={()=>{console.log('Clicked2')}}>이벤트 방법2</button>
+        </div>
     )
 }
 ```
