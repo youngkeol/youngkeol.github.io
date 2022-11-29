@@ -6,7 +6,7 @@ permalink: /docs/web-publishing/ellipsis
 nav_order: 100
 ---
 
-## **말줄임표 만들기**
+### **말줄임표 만들기**
 
 게시판의 제목이 길어질 경우 '...' 으로 처리하는 방법
 
