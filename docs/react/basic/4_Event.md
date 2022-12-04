@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 5_Event
+title: 4_Event
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
-permalink: /docs/react/basic/components-props
-nav_order: 5
+permalink: /docs/react/basic/event
+nav_order: 4
 ---
 
 
@@ -28,23 +28,6 @@ const Test = (props) => {
 ```
 
 
-
-
-
-### **Props**
-부모 컴포넌트에서 자식 컴포넌트로 속성을 전달달함
-
-```js
-//함수형 컴포넌트
-function Car (props) {
-    return (
-        <h2>{props.color}<h2>
-    )
-}
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<Car color="red"/>);
-```
 
 
 ### **참고**

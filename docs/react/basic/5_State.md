@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 4_State
+title: 5_State
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
-permalink: /docs/react/basic/components-props
+permalink: /docs/react/basic/state
 nav_order: 4
 ---
 
@@ -14,6 +14,8 @@ nav_order: 4
 데이터가 사용자 인터페이스에 반영되어야 한다면  state를 사용함
 일반적인 변수와 달리 state를 사용하여 값을 설정하고, state가 바뀌면 재렌더링 되어 화면에 반영됨
 
+useState를 사용해서 상태를 등록하면 항상 두개의 변수를 반환함
+(첫번째는 현재의 상태값, 두번째는 업데이트하는 함수)
 
 >const 변수를 사용하는 이유
 >등호(=)을 통해 값을 할당하지 않고, 함수를 통해 값을 바꾸는데
