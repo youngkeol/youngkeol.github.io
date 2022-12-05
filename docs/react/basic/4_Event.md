@@ -31,5 +31,5 @@ const Test = (props) => {
 
 
 ### **참고**
-> [w3schools 리액트 튜토리얼 - react_components](https://www.w3schools.com/REACT/react_components.asp){:target="_blank"}
+> [w3schools 리액트 튜토리얼 - react_event](https://www.w3schools.com/REACT/react_events.asp){:target="_blank"}
 
