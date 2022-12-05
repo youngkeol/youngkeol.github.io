@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3_.Components&Props
+title: 3_Components&Props
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
