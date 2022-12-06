@@ -13,7 +13,7 @@ nav_order: 3
 ### **Components**  
 컴포넌트는 독립적이고 재사용 가능한 코드 조각으로 HTML을 반환함
 
-```js
+```jsx
 //함수형 컴포넌트
 function Car () {
     return (
@@ -29,7 +29,7 @@ function Car () {
 ### **Props**
 부모 컴포넌트에서 자식 컴포넌트로 속성을 전달달함
 
-```js
+```jsx
 //함수형 컴포넌트
 function Car (props) {
     return (

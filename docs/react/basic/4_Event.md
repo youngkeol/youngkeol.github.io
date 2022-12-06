@@ -11,8 +11,12 @@ nav_order: 4
 
 
 ### **Event**  
+1. React의 이벤트는 카멜 케이스(camelCase) 사용
+2. JSX를 사용하여 문자열이 아닌 함수로 이벤트 핸들러 전달
 
-```js
+
+
+```jsx
 const Test = (props) => {
     const clickhandler = () => {
         console.log('Clicked1');
@@ -31,5 +35,5 @@ const Test = (props) => {
 
 
 ### **참고**
-> [w3schools 리액트 튜토리얼 - react_event](https://www.w3schools.com/REACT/react_events.asp){:target="_blank"}
-
+> [리액트 홈페이지 - 이벤트 처리하기](https://www.w3schools.com/REACT/react_events.asp){:target="_blank"}
+> [w3schools 리액트 튜토리얼 - react_event](https://ko.reactjs.org/docs/handling-events.html){:target="_blank"}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2_REACT란
+title: 1_REACT란
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
