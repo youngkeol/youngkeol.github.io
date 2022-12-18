@@ -27,8 +27,8 @@ const myElement = <h1>React is {5 + 5} times better with JSX</h1>;
 function Element(){
 	return (
 		<div>
-            <p>I am a paragraph.</p>
-            <p>I am a paragraph too.</p>
+            <p>Element Test 1</p>
+            <p>Element Test 2</p>
         </div>
 	);
 }

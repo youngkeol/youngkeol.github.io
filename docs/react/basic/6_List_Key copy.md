@@ -17,23 +17,20 @@ nav_order: 6
 
 
 ```jsx
-function NumberList = (props) =>{
+const NumberList = (props) =>{
     const numbers = [1, 2, 3, 4, 5];
     const listItem = numbers.map((number, index)=>{
-        <li key={number.toString()}>
-        {number}
-        </li>
+        return(
+            <li key={number.toString()}>
+                {number}
+            </li>
+        )
     });
 
     return (
-        <ul>
-            {listItem}
-        </ul>
+        <ul>{listItem}</ul>
     )
 }
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<NumberList/>);
 ```
 
 

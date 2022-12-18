@@ -17,7 +17,9 @@ nav_order: 3
 //함수형 컴포넌트
 function Car () {
     return (
-        <h2>Car<h2>
+        <div>
+            <h2>Car</h2>
+        </div>
     )
 }
 ```
@@ -33,7 +35,10 @@ function Car () {
 //함수형 컴포넌트
 function Car (props) {
     return (
-        <h2>{props.color}<h2>
+        <div>
+            <h2>Car</h2>
+            <h3>color : {props.color}</h3>
+        </div>
     )
 }
 
