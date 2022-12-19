@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 8_Hook
+title: 10_Hook1
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
-permalink: /docs/react/basic/hook
+permalink: /docs/react/basic/hook1
 nav_order: 10
 ---
 

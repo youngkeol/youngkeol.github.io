@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Hook_useEffect
+title: Hook2
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
-permalink: /docs/react/basic/hook
+permalink: /docs/react/basic/hook2
 nav_order: 11
 ---
 

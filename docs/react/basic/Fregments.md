@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fregment & Portals
+title: cSFregment & Portals
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
