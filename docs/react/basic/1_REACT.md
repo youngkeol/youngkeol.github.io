@@ -36,10 +36,10 @@ React는 브라우저의 DOM을 직접 조작하지 않고 DOM을 변경하기 �
 
 
 ### **REACT 프로잭트 구조**
->node_modlules :
->public :
->src : 소스 폴더(실제 소스)
->pakage-lock.json : 
+>node_modlules :  
+>public :  
+>src : 소스 폴더(실제 소스)  
+>pakage-lock.json :   
 >pakage.json : 프로젝트에서 사용하는 패키지
 
 
