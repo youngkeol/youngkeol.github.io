@@ -50,7 +50,7 @@ function Component3() {
 ```
 
 ### **useRef**
-리렌더링 하지 않고 컴포넌트의 선택시 사용
+리렌더링 하지 않고 특정 DOM을 선택하여 컨트롤 하는 Hook
 
 
 1. 특정 DOM 선택
@@ -60,9 +60,6 @@ function Component3() {
 >
 >
 >
-
-
-
 
 ```jsx
 //포커스 구현
@@ -92,4 +89,11 @@ const Example = () => {
     )
 
 } 
+```
+
+
+
+```jsx
+
+
 ```

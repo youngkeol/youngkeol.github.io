@@ -98,11 +98,7 @@ const Example = ()=>{
 
 
 
-### **useMemo**
 
-### **useCallback**
-
-### **useCallRef**
 
 
 
