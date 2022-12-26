@@ -30,7 +30,6 @@ useState를 사용해서 상태를 등록하면 항상 두개의 변수를 반�
 
 
 
-
 ```jsx
 import { useState } from "react";
 
@@ -53,6 +52,51 @@ const Plus = (props) => {
 
 
 ### **useEffect**  
+컴포넌트가 렌더링 될때 특정 작업을 수행할 수 있도록 하는 Hook.
+
+> 형식
+> import React, {useEffect} from 'react';  
+> useEffect (()=> {   
+>   return ()=>{};  
+> }, [dependency])  
+> function : 수행하고자 하는 작업  
+> dependency : 배열의 형태로 검사하고자 하는 특정값 (빈배열일 경우 : 화면에 가장 처음 렌더링 될때 한번만 실행 )
+
+> Side Effect란?  
+> 컴포넌트가 화면에 렌더링된 이후 비동기로 처리되어야 하는 부수적인 효과  
+> 외부에서 호출하는 API ```useEffect(<function>, <dependency>)```  
+
+```jsx
+//생량한 경우 : 렌더링 될때마다 실행
+import { useEffect } from "react";
+const Example = ()=>{
+    useEffect(()=>{
+        console.log("렌더링 될때 마다 실행");
+    })
+}
+```
+```jsx
+//빈배열인 경우 : 처음 한번만 실행
+import { useEffect } from "react";
+const Example = ()=>{
+    useEffect(()=>{
+        console.log("처음 한번만 실행");
+    },[])
+}
+```
+
+```jsx
+//값이 있는 경우 : 특정 props, state가 변경될 경우 실행
+import { useEffect } from "react";
+const Example = ()=>{
+    useEffect(()=>{
+        console.log("name 값이 변경된 경우 실행");
+    },[name]);
+}
+```
+
+
+
 
 ### **useMemo**
 
