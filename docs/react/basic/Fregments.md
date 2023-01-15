@@ -1,11 +1,11 @@
 ---
 layout: default
-title: cSFregment & Portals
+title: 15_Fregment & Portals
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
 permalink: /docs/react/basic/fregment
-nav_order: 10
+nav_order: 15
 ---
 
 

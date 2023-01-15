@@ -19,4 +19,8 @@ ex) 로그인, 테마, 웹 내부 설정파일 등등 사용
 
 
 
-### **Context ehdwjr todtjd**
+### **Context 동적생성**
+```<AuthContext.Provider>```
+
+
+### **Context 제한**
