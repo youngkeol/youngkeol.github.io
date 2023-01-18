@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 1_APEXCHART
+title: apexcharts 기본 사용
 grand_parent: 리액트
-parent: APEXCHART
+parent: 리액트 예제
 has_children: false
-permalink: /docs/react/apexcharts/doc_1
-nav_order: 1
+permalink: /docs/react/example/apexcharts
+nav_order: 20
 ---
 
 ### **APEXCHART**  

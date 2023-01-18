@@ -9,15 +9,24 @@ nav_order: 12
 ---
 
 
-
-
-### **useReducer**
-
-
-
 ### **useMemo**
 
 ### **useCallback**
+> 형식
+> useCallback(()=>{
+>     return value;
+> }, [dispatchFn])
+> 
+> 
+
+
+
+
+
+
+
+
+### **useReducer**
 
 ### **useCallRef**
 
