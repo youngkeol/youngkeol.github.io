@@ -4,8 +4,8 @@ title: 14_Custom_Hook
 grand_parent: 리액트
 parent: 리액트 기초
 has_children: false
-permalink: /docs/react/basic/hook4
-nav_order: 13
+permalink: /docs/react/basic/custom_hook
+nav_order: 14
 ---
 
 
@@ -26,5 +26,3 @@ nav_order: 13
 > initFn :  초기값 설정 함수
 
 
-
-useSteate vs useRedycer

@@ -11,19 +11,21 @@ nav_order: 11
 
 
 ### **Context**
-React Context는 전역적으로 상태를 관리하는 방법으로 중접된 컴포넌트 간 상태를 쉽게 공유할 수 있음
+React Context는 전역적으로 상태를 관리하는 방법으로 중접된 컴포넌트 간 상태를 쉽게 공유할 수 있음  
+
 
 > Context란
 > 일반적으로 데이터를 전달할 떄 props를 통해 전달되지만, 여러 컴포넌트에게 전달해야할 경우 전역으로 > > > > context를  사용하여 전달 함
->createContext : context객체 생성
->Provider : 생성한 context객체를 하위 컴포넌트한테 전달하는 역할
->Consumer : context변화를 감시하느느 컴포넌트
+> createContext : context객체 생성
+> Provider : 생성한 context객체를 하위 컴포넌트한테 전달하는 역할
+    
 
 ```jsx
 import { useState, createContext, useContext } from "react";
 import ReactDOM from "react-dom/client";
 
 const UserContext = createContext();
+
 function Component1() {
     const [user, setUser] = useState("Hong gil dong");
 
@@ -89,11 +91,4 @@ const Example = () => {
     )
 
 } 
-```
-
-
-
-```jsx
-
-
 ```

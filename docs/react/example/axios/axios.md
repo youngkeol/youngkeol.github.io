@@ -1,6 +1,6 @@
 ---
 layout: default
-title: axios
+title: axios 예제
 grand_parent: 리액트
 parent: 리액트 예제
 has_children: false

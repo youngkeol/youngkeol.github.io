@@ -1,6 +1,6 @@
 ---
 layout: default
-title: apexcharts 기본 사용
+title: apexcharts 예제
 grand_parent: 리액트
 parent: 리액트 예제
 has_children: false
